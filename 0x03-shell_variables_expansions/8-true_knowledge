@@ -1,1 +1,2 @@
-$((120 + $TRUEKNOWLEDGE)) 
+#!/bin/bash
+echo $((120+$TRUEKNOWLEDGE)) 
